@@ -1,0 +1,8 @@
+{
+  "total_questions": 20,
+  "thresholds": {
+    "yellow": 0.3,
+    "green": 0.6,
+    "cyan": 0.9
+  }
+}

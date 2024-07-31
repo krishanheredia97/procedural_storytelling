@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which of the following is NOT a major tectonic plate?",
+      "answers": [
+        "Pacific Plate",
+        "Eurasian Plate",
+        "Antarctic Plate",
+        "Mediterranean Plate"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_number": 2,
+      "question_text": "What is the primary cause of the Earth's seasons?",
+      "answers": [
+        "Varying distance from the Sun",
+        "Earth's axial tilt",
+        "Ocean currents",
+        "Atmospheric pressure changes"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which of these cities is located at the highest latitude?",
+      "answers": [
+        "Moscow, Russia",
+        "Oslo, Norway",
+        "Helsinki, Finland",
+        "Reykjavik, Iceland"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question_number": 4,
+      "question_text": "What type of map projection is most suitable for navigational purposes?",
+      "answers": [
+        "Mercator projection",
+        "Robinson projection",
+        "Mollweide projection",
+        "Goode homolosine projection"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question_number": 5,
+      "question_text": "Which of the following is an example of a landlocked country?",
+      "answers": [
+        "Croatia",
+        "Bolivia",
+        "Vietnam",
+        "Senegal"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "quest_name": "The Dragon's Hoard",
+  "quest_description": "A brief description of the quest goes here",
+  "dialogues": {
+    "opening": [
+      {
+        "id": "opening_1",
+        "text": "Opening dialogue placeholder 1"
+      },
+      {
+        "id": "opening_2",
+        "text": "Opening dialogue placeholder 2"
+      }
+    ],
+    "ongoing": {
+      "red": [
+        {
+          "id": "ongoing_red_1",
+          "text": "Red ongoing dialogue placeholder 1"
+        },
+        {
+          "id": "ongoing_red_2",
+          "text": "Red ongoing dialogue placeholder 2"
+        }
+      ],
+      "yellow": [
+        {
+          "id": "ongoing_yellow_1",
+          "text": "Yellow ongoing dialogue placeholder 1"
+        },
+        {
+          "id": "ongoing_yellow_2",
+          "text": "Yellow ongoing dialogue placeholder 2"
+        }
+      ],
+      "green": [
+        {
+          "id": "ongoing_green_1",
+          "text": "Green ongoing dialogue placeholder 1"
+        },
+        {
+          "id": "ongoing_green_2",
+          "text": "Green ongoing dialogue placeholder 2"
+        }
+      ],
+      "cyan": [
+        {
+          "id": "ongoing_cyan_1",
+          "text": "Cyan ongoing dialogue placeholder 1"
+        },
+        {
+          "id": "ongoing_cyan_2",
+          "text": "Cyan ongoing dialogue placeholder 2"
+        }
+      ]
+    },
+    "closing": {
+      "red": [
+        {
+          "id": "closing_red_1",
+          "text": "Red closing dialogue placeholder"
+        }
+      ],
+      "yellow": [
+        {
+          "id": "closing_yellow_1",
+          "text": "Yellow closing dialogue placeholder"
+        }
+      ],
+      "green": [
+        {
+          "id": "closing_green_1",
+          "text": "Green closing dialogue placeholder"
+        }
+      ],
+      "cyan": [
+        {
+          "id": "closing_cyan_1",
+          "text": "Cyan closing dialogue placeholder"
+        }
+      ]
+    }
+  }
+}
